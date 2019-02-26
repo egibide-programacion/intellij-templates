@@ -1,0 +1,7 @@
+<templateSet group="Egibide">
+  <template name="br" value="java.io.BufferedReader br = new java.io.BufferedReader(new java.io.InputStreamReader(System.in));&#10;" description="Lectura desde teclado" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
